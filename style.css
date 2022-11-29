@@ -47,13 +47,49 @@ nav{
     color: #ccd1d5;
     background-color: white;
     border-color: #ccd1d5;
-    border-width: 10px;
+    border-width: medium;
+    border-style: solid;
 }
 
 /*main*/
-main{
+details{
     background-color: white;
-    margin: 5px, 200px;
+    margin-top: 0px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 0px;
+    padding: 30px;
 }
 
+summary{
+    font-weight: bold;
+    background-color: white;
+}
+/*logo*/
+#logo-check{
+    color: green;
+    border-radius: 50%;
+    border-color: green;
+    border-width: medium;
+    border-style: solid;
+    background-color: white;
+}
+
+
+#logo-cross{
+    color: red;
+    border-radius: 50%;
+    border-color: red;
+    border-width: medium;
+    border-style: solid;
+    background-color: white;
+}
+
+/*post-it*/
+#editorial{
+    background-color: #47adf1;
+    padding: 5px;
+    font-size: 10px;
+    border-radius: 10px;
+}
 
