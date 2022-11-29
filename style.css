@@ -92,9 +92,52 @@ summary{
 
 /*post-it*/
 #editorial{
+    color: white;
     background-color: #47adf1;
     padding: 5px;
     font-size: 10px;
     border-radius: 10px;
 }
+
+#Q1{
+    color: white;
+    background-color: purple;
+    padding: 5px;
+    font-size: 10px;
+    border-radius: 10px;
+   
+}
+
+#Recruiting{
+    color: white;
+    background-color: green;
+    padding: 5px;
+    font-size: 10px;
+    border-radius: 10px;
+}
+
+#Mobile{
+    color: white;
+    background-color: orange;
+    padding: 5px;
+    font-size: 10px;
+    border-radius: 10px;
+}
+
+#Website{
+    color: white;
+    background-color: pink;
+    padding: 5px;
+    font-size: 10px;
+    border-radius: 10px;
+}
+
+#Sales{
+    color: white;
+    background-color: #a1cc16;
+    padding: 5px;
+    font-size: 10px;
+    border-radius: 10px;
+}
+
 
